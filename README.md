@@ -23,7 +23,7 @@ and workflow automation.</strong>
 
 <p>
 I build practical digital solutions that connect applications, databases,
-APIs, AI models, communication platforms, and business systems into
+APIs, AI models, communication platforms, and digital systems into
 automated workflows.
 </p>
 
@@ -59,7 +59,6 @@ databases, AI models, websites, and applications.
 <ul>
   <li>WhatsApp Automation</li>
   <li>AI Automatic Replies</li>
-  <li>OpenAI Integration</li>
   <li>Claude Integration</li>
   <li>Gemini Integration</li>
   <li>PDF & Image Parsing</li>
@@ -116,10 +115,6 @@ repetitive tasks and improving digital processes.
 
 <a href="https://n8n.io/" target="_blank">
 <img src="https://cdn.simpleicons.org/n8n" width="45" height="45" alt="n8n">
-</a>
-
-<a href="https://openai.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/openai" width="45" height="45" alt="OpenAI">
 </a>
 
 <a href="https://www.anthropic.com/" target="_blank">
@@ -189,7 +184,7 @@ REST APIs • Webhooks • JSON • SQL • NoSQL
 <h3>🧠 AI Platforms</h3>
 
 <p>
-OpenAI • Claude • Gemini
+Claude • Gemini
 </p>
 
 <h2>🚀 Core Skills</h2>
