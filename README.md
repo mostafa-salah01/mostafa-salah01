@@ -17,9 +17,7 @@
   <a href="#-lets-connect">Contact</a>
 </p>
 
-<blockquote>
-Before publishing, replace the placeholder contact links below (email, LinkedIn, WhatsApp) with your real details.
-</blockquote>
+
 
 <hr>
 
@@ -188,18 +186,16 @@ A typical automation pipeline I build looks like this:
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mostafaalsn82@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/mostafa-salah-2918412bb/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://wa.me/yourwhatsappnumber">
+  <a href="https://wa.me/201107787049">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
-
-> Update the links above (email, LinkedIn, WhatsApp, etc.) with your real contact details.
 
 <hr>
 
