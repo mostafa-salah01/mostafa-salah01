@@ -1,129 +1,43 @@
 <h1 align="center">👋 Hi, I'm Mostafa Salah</h1>
 
 <h3 align="center">
-Software Developer | Automation Engineer | AI Integration | n8n
+Software Developer • Automation Engineer • Backend Developer
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software-Development-blue" />
-  <img src="https://img.shields.io/badge/n8n-Automation-orange" />
-  <img src="https://img.shields.io/badge/AI-Integration-purple" />
-  <img src="https://img.shields.io/badge/API-Integration-green" />
+  <img src="https://img.shields.io/badge/Software%20Development-1E88E5?style=for-the-badge" alt="Software Development">
+  <img src="https://img.shields.io/badge/Automation-FF9800?style=for-the-badge" alt="Automation">
+  <img src="https://img.shields.io/badge/API%20Integration-43A047?style=for-the-badge" alt="API Integration">
+  <img src="https://img.shields.io/badge/Backend-6A1B9A?style=for-the-badge" alt="Backend">
 </p>
 
-<hr>
+---
 
-<h2>👨🏻‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<p>
-I'm <strong>Mostafa Salah</strong>, a software developer focused on
-<strong>automation, artificial intelligence, API integration, system integration,
-and workflow automation.</strong>
-</p>
+I'm **Mostafa Salah**, a Software Developer focused on building practical, scalable, and automated software solutions.
 
-<p>
-I build practical digital solutions that connect applications, databases,
-APIs, AI models, communication platforms, and digital systems into
-automated workflows.
-</p>
+My work focuses on:
 
-<h2>💻 What I Do</h2>
+* Software Development
+* Backend Development
+* Workflow Automation
+* API Integration
+* Database Systems
+* System Integration
+* Business Process Automation
+* Data Processing
+* Webhooks & Event-Driven Systems
 
-<ul>
-  <li>⚙️ Workflow Automation</li>
-  <li>🤖 AI Integration & AI Agents</li>
-  <li>🔗 API Integration</li>
-  <li>📱 WhatsApp Automation</li>
-  <li>💬 Telegram Bots</li>
-  <li>🗄️ Database Automation</li>
-  <li>📄 PDF & Image Processing</li>
-  <li>🌐 Webhooks</li>
-  <li>📊 Data Processing</li>
-  <li>🛒 E-commerce Automation</li>
-  <li>📦 Order & Delivery Automation</li>
-  <li>📅 Booking & Appointment Automation</li>
-  <li>🔔 Notification Automation</li>
-  <li>🧾 Invoice & Subscription Automation</li>
-  <li>🔄 System & Database Synchronization</li>
-</ul>
+I enjoy building systems that connect different services, process data automatically, and simplify complex business workflows.
 
-<h2>🤖 n8n Automation</h2>
+---
 
-<p>
-I use <strong>n8n</strong> to build advanced workflows that connect APIs,
-databases, AI models, websites, and applications.
-</p>
+## 🛠️ Technical Stack
 
-<h3>🔧 n8n Solutions</h3>
-
-<ul>
-  <li>WhatsApp Automation</li>
-  <li>AI Automatic Replies</li>
-  <li>Claude Integration</li>
-  <li>Gemini Integration</li>
-  <li>PDF & Image Parsing</li>
-  <li>MySQL Automation</li>
-  <li>PostgreSQL Automation</li>
-  <li>MongoDB Automation</li>
-  <li>Telegram Bots</li>
-  <li>Slack & Discord Notifications</li>
-  <li>Email Automation</li>
-  <li>Meta Graph API Integration</li>
-  <li>Facebook & Instagram Integration</li>
-  <li>Invoice Processing</li>
-  <li>E-commerce Automation</li>
-  <li>Payment Gateway Integration</li>
-  <li>Google Calendar Automation</li>
-  <li>Webhook Automation</li>
-  <li>Automatic PDF Generation</li>
-  <li>Shipping & Order Tracking</li>
-  <li>Database Backup Automation</li>
-  <li>Trello Integration</li>
-  <li>Notion Integration</li>
-  <li>Jira Integration</li>
-  <li>Data Synchronization</li>
-  <li>Automated Reporting</li>
-  <li>AI Agents</li>
-  <li>Multi-step AI Workflows</li>
-</ul>
-
-<h2>🧠 AI Automation</h2>
-
-<p>
-I build AI-powered workflows and intelligent agents for automating
-repetitive tasks and improving digital processes.
-</p>
-
-<ul>
-  <li>🤖 AI Sales Assistant</li>
-  <li>💬 AI Customer Support</li>
-  <li>📅 AI Appointment Assistant</li>
-  <li>📄 AI Data Entry</li>
-  <li>🧾 Invoice Processing</li>
-  <li>📦 Order Follow-up</li>
-  <li>📑 PDF Analysis</li>
-  <li>🗄️ Database Management</li>
-  <li>✍️ AI Message Generation</li>
-  <li>📊 Data Analysis</li>
-  <li>🔔 Automated Notifications</li>
-  <li>🌐 Website Data Extraction</li>
-</ul>
-
-<h2>🛠️ Technologies & Tools</h2>
+### 💻 Programming Languages
 
 <p align="left">
-
-<a href="https://n8n.io/" target="_blank">
-<img src="https://cdn.simpleicons.org/n8n" width="45" height="45" alt="n8n">
-</a>
-
-<a href="https://www.anthropic.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/anthropic" width="45" height="45" alt="Claude">
-</a>
-
-<a href="https://deepmind.google/technologies/gemini/" target="_blank">
-<img src="https://cdn.simpleicons.org/googlegemini" width="45" height="45" alt="Gemini">
-</a>
 
 <a href="https://www.python.org/" target="_blank">
 <img src="https://cdn.simpleicons.org/python" width="45" height="45" alt="Python">
@@ -132,6 +46,30 @@ repetitive tasks and improving digital processes.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://cdn.simpleicons.org/javascript" width="45" height="45" alt="JavaScript">
 </a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/typescript" width="45" height="45" alt="TypeScript">
+</a>
+
+<a href="https://www.php.net/" target="_blank">
+<img src="https://cdn.simpleicons.org/php" width="45" height="45" alt="PHP">
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://cdn.simpleicons.org/html5" width="45" height="45" alt="HTML5">
+</a>
+
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
+<img src="https://cdn.simpleicons.org/css3" width="45" height="45" alt="CSS3">
+</a>
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
 
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://cdn.simpleicons.org/mysql" width="45" height="45" alt="MySQL">
@@ -145,6 +83,179 @@ repetitive tasks and improving digital processes.
 <img src="https://cdn.simpleicons.org/mongodb" width="45" height="45" alt="MongoDB">
 </a>
 
+<a href="https://redis.io/" target="_blank">
+<img src="https://cdn.simpleicons.org/redis" width="45" height="45" alt="Redis">
+</a>
+
+</p>
+
+### Database Skills
+
+* Database Design
+* SQL Queries
+* Data Modeling
+* CRUD Operations
+* Database Optimization
+* Data Synchronization
+* Backup & Recovery
+* Relational Databases
+* NoSQL Databases
+
+---
+
+## ⚙️ Automation & Workflow
+
+<p align="left">
+
+<a href="https://n8n.io/" target="_blank">
+<img src="https://cdn.simpleicons.org/n8n" width="55" height="55" alt="n8n">
+</a>
+
+</p>
+
+I build automated workflows for connecting applications, APIs, databases, communication systems, and business processes.
+
+### Automation Solutions
+
+* Workflow Automation
+* API Automation
+* Webhook Automation
+* Data Synchronization
+* Automated Notifications
+* Order Processing
+* Business Process Automation
+* Scheduled Tasks
+* Automated Reporting
+* Database Workflows
+* File Processing
+* Data Transformation
+* System-to-System Integration
+
+---
+
+## 🔗 API & Integration
+
+### API Technologies
+
+* REST APIs
+* HTTP / HTTPS
+* JSON
+* Webhooks
+* OAuth
+* API Authentication
+* API Requests
+* API Responses
+* Error Handling
+* Rate Limiting
+* Data Transformation
+
+### Integration Architecture
+
+```text
+Application
+     │
+     ▼
+    API
+     │
+     ▼
+Automation Layer
+     │
+ ┌───┼───────────┐
+ ▼   ▼           ▼
+DB  Webhooks   Services
+     │
+     ▼
+ Notifications
+```
+
+---
+
+## 🌐 Web Development
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Web Design
+* REST API Integration
+* Dynamic Interfaces
+
+### Backend
+
+* Python
+* JavaScript
+* PHP
+* REST APIs
+* Authentication
+* Database Integration
+* Server-Side Logic
+* Data Processing
+
+---
+
+## 📱 Communication & Business Integrations
+
+I work with systems that integrate communication and business operations through APIs and automated workflows.
+
+### Communication
+
+* WhatsApp Business API
+* Telegram Bots
+* Email Systems
+* SMS Services
+* Webhooks
+
+### Business Systems
+
+* Order Management
+* Shipping Systems
+* Delivery Tracking
+* Customer Management
+* Notification Systems
+* Payment Integration
+* Invoice Processing
+* Reporting Systems
+
+---
+
+## 📊 Data Processing
+
+My development work includes processing and transforming structured and unstructured data.
+
+### Data Operations
+
+* JSON Processing
+* CSV Processing
+* Excel Data Processing
+* PDF Processing
+* Data Validation
+* Data Cleaning
+* Data Transformation
+* Data Import / Export
+* Automated Reports
+* Database Synchronization
+
+---
+
+## 🔐 Security & Development Practices
+
+* API Authentication
+* Access Control
+* Environment Variables
+* Secure Credentials Management
+* Input Validation
+* Error Handling
+* Logging
+* Backup Strategies
+* Secure API Communication
+
+---
+
+## 🧰 Development Tools
+
+<p align="left">
+
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://cdn.simpleicons.org/git" width="45" height="45" alt="Git">
 </a>
@@ -153,99 +264,147 @@ repetitive tasks and improving digital processes.
 <img src="https://cdn.simpleicons.org/github" width="45" height="45" alt="GitHub">
 </a>
 
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/visualstudiocode" width="45" height="45" alt="Visual Studio Code">
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/postman" width="45" height="45" alt="Postman">
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/docker" width="45" height="45" alt="Docker">
+</a>
+
 </p>
 
-<h2>🔌 Integrations</h2>
+---
 
-<h3>📱 Communication</h3>
-
-<p>
-WhatsApp • Telegram • Email • Slack • Discord
-</p>
-
-<h3>📲 Social Media</h3>
-
-<p>
-Facebook • Instagram • Meta Graph API
-</p>
-
-<h3>📅 Productivity</h3>
-
-<p>
-Google Calendar • Notion • Trello • Jira
-</p>
-
-<h3>🔗 Development & Integration</h3>
-
-<p>
-REST APIs • Webhooks • JSON • SQL • NoSQL
-</p>
-
-<h3>🧠 AI Platforms</h3>
-
-<p>
-Claude • Gemini
-</p>
-
-<h2>🚀 Core Skills</h2>
+## 🚀 Core Skills
 
 <table>
-  <tr>
-    <td>🤖 AI Integration</td>
-    <td>⚙️ Workflow Automation</td>
-    <td>🔗 API Integration</td>
-  </tr>
-  <tr>
-    <td>🌐 REST APIs</td>
-    <td>🔄 Webhooks</td>
-    <td>🗄️ Database Automation</td>
-  </tr>
-  <tr>
-    <td>📊 Data Processing</td>
-    <td>🧠 AI Agents</td>
-    <td>🔧 System Integration</td>
-  </tr>
-  <tr>
-    <td>📱 WhatsApp Automation</td>
-    <td>💬 Telegram Bots</td>
-    <td>🛒 E-commerce Automation</td>
-  </tr>
+<tr>
+<td>💻 Software Development</td>
+<td>⚙️ Workflow Automation</td>
+<td>🔗 API Integration</td>
+</tr>
+
+<tr>
+<td>🐍 Python Development</td>
+<td>🟨 JavaScript Development</td>
+<td>🔷 TypeScript</td>
+</tr>
+
+<tr>
+<td>🗄️ SQL Databases</td>
+<td>🍃 NoSQL Databases</td>
+<td>📊 Data Processing</td>
+</tr>
+
+<tr>
+<td>🌐 Backend Development</td>
+<td>🔄 System Integration</td>
+<td>🌐 REST APIs</td>
+</tr>
+
+<tr>
+<td>📡 Webhooks</td>
+<td>📱 Business Automation</td>
+<td>📦 Order Systems</td>
+</tr>
 </table>
 
-<h2>🎯 Currently Learning & Building</h2>
+---
 
-<ul>
-  <li>🤖 AI Agents</li>
-  <li>⚙️ Advanced n8n Workflows</li>
-  <li>🧠 AI Automation</li>
-  <li>🔗 Advanced API Integrations</li>
-  <li>📊 Data Automation</li>
-  <li>🌐 Backend Systems</li>
-  <li>📱 Communication Automation</li>
-  <li>🔄 System Integrations</li>
-</ul>
+## 🏗️ What I Build
 
-<h2>📌 Development Philosophy</h2>
+```text
+┌───────────────────────────────────────┐
+│          Business Application         │
+└───────────────────┬───────────────────┘
+                    │
+                    ▼
+┌───────────────────────────────────────┐
+│            REST API Layer             │
+└───────────────────┬───────────────────┘
+                    │
+                    ▼
+┌───────────────────────────────────────┐
+│        Automation & Workflows         │
+└───────────────┬───────────────┬───────┘
+                │               │
+                ▼               ▼
+        ┌──────────────┐ ┌──────────────┐
+        │   Database   │ │ External API │
+        └──────────────┘ └──────────────┘
+                │               │
+                └───────┬───────┘
+                        ▼
+              ┌─────────────────┐
+              │ Notifications   │
+              │ Reports         │
+              │ Business Logic  │
+              └─────────────────┘
+```
 
-<blockquote>
-  <p>
-    <strong>Automate repetitive work.</strong><br>
-    Connect systems.<br>
-    Use AI where it creates real value.<br>
-    Build simple, reliable, and scalable solutions.
-  </p>
-</blockquote>
+---
 
-<h2>🚀 Focus</h2>
+## 📌 Development Approach
+
+I focus on building software that is:
+
+* **Scalable**
+* **Maintainable**
+* **Reliable**
+* **Secure**
+* **Automated**
+* **API-driven**
+* **Database-oriented**
+* **Easy to integrate**
+
+---
+
+## 🎯 Current Focus
+
+* Advanced Backend Development
+* API Architecture
+* Workflow Automation
+* Database Architecture
+* System Integration
+* Event-Driven Workflows
+* Business Automation
+* Scalable Software Systems
+
+---
+
+## 📈 Development Philosophy
+
+> **Build systems, not just features.**
+
+> **Automate repetitive processes.**
+
+> **Connect systems through reliable APIs.**
+
+> **Keep software simple, scalable, and maintainable.**
+
+---
+
+## 🔥 Tech Focus
 
 <p align="center">
-  <strong>
-    Software Development × Automation × AI × APIs × n8n
-  </strong>
+
+<strong>
+Python • JavaScript • TypeScript • PHP • SQL • MySQL • PostgreSQL • MongoDB • Redis • REST APIs • Webhooks • n8n • Git • Docker
+</strong>
+
 </p>
 
-<hr>
+---
 
 <p align="center">
-  <i>Building smarter systems through code, automation, and artificial intelligence.</i>
+  <strong>Software Development • Automation • APIs • Databases • System Integration</strong>
+</p>
+
+<p align="center">
+  <i>Building reliable software systems and automated digital workflows.</i>
 </p>
