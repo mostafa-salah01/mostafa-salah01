@@ -197,6 +197,8 @@ A typical automation pipeline I build looks like this:
   </a>
 </p>
 
+<p align="center">📧 mostafaalsn82@gmail.com</p>
+
 <hr>
 
 <p align="center"><em>Thanks for stopping by — feel free to explore my repositories below! 🚀</em></p>
