@@ -17,6 +17,10 @@
   <a href="#-lets-connect">Contact</a>
 </p>
 
+<blockquote>
+Before publishing, replace the placeholder contact links below (email, LinkedIn, WhatsApp) with your real details.
+</blockquote>
+
 <hr>
 
 ## 👨‍💻 About Me
@@ -178,21 +182,6 @@ A typical automation pipeline I build looks like this:
                 │  Business Processes  │
                 └──────────────────────┘
 ```
-
-<hr>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" alt="Top Languages"/>
-</p>
-
-> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate these stat cards.
 
 <hr>
 
