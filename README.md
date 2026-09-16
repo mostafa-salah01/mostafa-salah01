@@ -5,282 +5,256 @@ Software Developer • Automation Engineer • Backend Developer
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Development-1E88E5?style=for-the-badge" alt="Software Development">
-  <img src="https://img.shields.io/badge/Automation-FF9800?style=for-the-badge" alt="Automation">
-  <img src="https://img.shields.io/badge/API%20Integration-43A047?style=for-the-badge" alt="API Integration">
-  <img src="https://img.shields.io/badge/Backend-6A1B9A?style=for-the-badge" alt="Backend">
+  <img src="https://img.shields.io/badge/Software%20Development-1E88E5?style=for-the-badge" alt="Software Development"/>
+  <img src="https://img.shields.io/badge/Automation-FF9800?style=for-the-badge" alt="Automation"/>
+  <img src="https://img.shields.io/badge/API%20Integration-43A047?style=for-the-badge" alt="API Integration"/>
+  <img src="https://img.shields.io/badge/Backend-6A1B9A?style=for-the-badge" alt="Backend"/>
 </p>
 
----
+<hr>
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
-I'm **Mostafa Salah**, a Software Developer focused on building practical, scalable, and automated software solutions.
+<p>
+I'm <strong>Mostafa Salah</strong>, a Software Developer focused on building
+practical, scalable, and automated software solutions.
+</p>
 
-My work focuses on:
+<p>
+My work focuses on software development, backend systems, workflow automation,
+API integration, databases, system integration, and business process automation.
+</p>
 
-* Software Development
-* Backend Development
-* Workflow Automation
-* API Integration
-* Database Systems
-* System Integration
-* Business Process Automation
-* Data Processing
-* Webhooks & Event-Driven Systems
+<p>
+I enjoy building reliable systems that connect applications, databases,
+APIs, and business processes into efficient digital workflows.
+</p>
 
-I enjoy building systems that connect different services, process data automatically, and simplify complex business workflows.
+<hr>
 
----
-
-## 🛠️ Technical Stack
-
-### 💻 Programming Languages
+<h2>💻 Programming Languages</h2>
 
 <p align="left">
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/python" width="45" height="45" alt="Python">
-</a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://cdn.simpleicons.org/javascript" width="45" height="45" alt="JavaScript">
-</a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/typescript" width="45" height="45" alt="TypeScript">
-</a>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 
-<a href="https://www.php.net/" target="_blank">
-<img src="https://cdn.simpleicons.org/php" width="45" height="45" alt="PHP">
-</a>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://cdn.simpleicons.org/html5" width="45" height="45" alt="HTML5">
-</a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 
-<a href="https://www.w3.org/Style/CSS/" target="_blank">
-<img src="https://cdn.simpleicons.org/css3" width="45" height="45" alt="CSS3">
-</a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
 </p>
 
----
+<hr>
 
-## 🗄️ Databases
+<h2>🗄️ Databases</h2>
 
 <p align="left">
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/mysql" width="45" height="45" alt="MySQL">
-</a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/postgresql" width="45" height="45" alt="PostgreSQL">
-</a>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/mongodb" width="45" height="45" alt="MongoDB">
-</a>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
-<a href="https://redis.io/" target="_blank">
-<img src="https://cdn.simpleicons.org/redis" width="45" height="45" alt="Redis">
-</a>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 
 </p>
 
-### Database Skills
+<h3>Database Skills</h3>
 
-* Database Design
-* SQL Queries
-* Data Modeling
-* CRUD Operations
-* Database Optimization
-* Data Synchronization
-* Backup & Recovery
-* Relational Databases
-* NoSQL Databases
+<ul>
+  <li>Database Design</li>
+  <li>SQL Queries</li>
+  <li>Data Modeling</li>
+  <li>CRUD Operations</li>
+  <li>Database Optimization</li>
+  <li>Data Synchronization</li>
+  <li>Database Backup & Recovery</li>
+  <li>Relational Databases</li>
+  <li>NoSQL Databases</li>
+</ul>
 
----
+<hr>
 
-## ⚙️ Automation & Workflow
+<h2>⚙️ Automation & Workflow</h2>
 
 <p align="left">
 
-<a href="https://n8n.io/" target="_blank">
-<img src="https://cdn.simpleicons.org/n8n" width="55" height="55" alt="n8n">
-</a>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 
 </p>
 
-I build automated workflows for connecting applications, APIs, databases, communication systems, and business processes.
+<p>
+I build automated workflows that connect applications, APIs, databases,
+communication systems, and business processes.
+</p>
 
-### Automation Solutions
+<ul>
+  <li>Workflow Automation</li>
+  <li>API Automation</li>
+  <li>Webhook Automation</li>
+  <li>Data Synchronization</li>
+  <li>Automated Notifications</li>
+  <li>Order Processing</li>
+  <li>Business Process Automation</li>
+  <li>Scheduled Tasks</li>
+  <li>Automated Reporting</li>
+  <li>Database Workflows</li>
+  <li>File Processing</li>
+  <li>Data Transformation</li>
+  <li>System Integration</li>
+</ul>
 
-* Workflow Automation
-* API Automation
-* Webhook Automation
-* Data Synchronization
-* Automated Notifications
-* Order Processing
-* Business Process Automation
-* Scheduled Tasks
-* Automated Reporting
-* Database Workflows
-* File Processing
-* Data Transformation
-* System-to-System Integration
+<hr>
 
----
+<h2>🔗 API & Integration</h2>
 
-## 🔗 API & Integration
-
-### API Technologies
-
-* REST APIs
-* HTTP / HTTPS
-* JSON
-* Webhooks
-* OAuth
-* API Authentication
-* API Requests
-* API Responses
-* Error Handling
-* Rate Limiting
-* Data Transformation
-
-### Integration Architecture
-
-```text
-Application
-     │
-     ▼
-    API
-     │
-     ▼
-Automation Layer
-     │
- ┌───┼───────────┐
- ▼   ▼           ▼
-DB  Webhooks   Services
-     │
-     ▼
- Notifications
-```
-
----
-
-## 🌐 Web Development
-
-### Frontend
-
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Web Design
-* REST API Integration
-* Dynamic Interfaces
-
-### Backend
-
-* Python
-* JavaScript
-* PHP
-* REST APIs
-* Authentication
-* Database Integration
-* Server-Side Logic
-* Data Processing
-
----
-
-## 📱 Communication & Business Integrations
-
-I work with systems that integrate communication and business operations through APIs and automated workflows.
-
-### Communication
-
-* WhatsApp Business API
-* Telegram Bots
-* Email Systems
-* SMS Services
-* Webhooks
-
-### Business Systems
-
-* Order Management
-* Shipping Systems
-* Delivery Tracking
-* Customer Management
-* Notification Systems
-* Payment Integration
-* Invoice Processing
-* Reporting Systems
-
----
-
-## 📊 Data Processing
-
-My development work includes processing and transforming structured and unstructured data.
-
-### Data Operations
-
-* JSON Processing
-* CSV Processing
-* Excel Data Processing
-* PDF Processing
-* Data Validation
-* Data Cleaning
-* Data Transformation
-* Data Import / Export
-* Automated Reports
-* Database Synchronization
-
----
-
-## 🔐 Security & Development Practices
-
-* API Authentication
-* Access Control
-* Environment Variables
-* Secure Credentials Management
-* Input Validation
-* Error Handling
-* Logging
-* Backup Strategies
-* Secure API Communication
-
----
-
-## 🧰 Development Tools
+<h3>API Technologies</h3>
 
 <p align="left">
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/git" width="45" height="45" alt="Git">
-</a>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" alt="REST API"/>
 
-<a href="https://github.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/github" width="45" height="45" alt="GitHub">
-</a>
+<img src="https://img.shields.io/badge/HTTP%2FHTTPS-005C97?style=for-the-badge" alt="HTTP"/>
 
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/visualstudiocode" width="45" height="45" alt="Visual Studio Code">
-</a>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
 
-<a href="https://www.postman.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/postman" width="45" height="45" alt="Postman">
-</a>
+<img src="https://img.shields.io/badge/Webhooks-6C63FF?style=for-the-badge" alt="Webhooks"/>
 
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/docker" width="45" height="45" alt="Docker">
-</a>
+<img src="https://img.shields.io/badge/OAuth-3C873A?style=for-the-badge" alt="OAuth"/>
 
 </p>
 
----
+<ul>
+  <li>REST APIs</li>
+  <li>HTTP / HTTPS</li>
+  <li>JSON</li>
+  <li>Webhooks</li>
+  <li>OAuth Authentication</li>
+  <li>API Authentication</li>
+  <li>API Requests & Responses</li>
+  <li>Error Handling</li>
+  <li>Rate Limiting</li>
+  <li>Data Transformation</li>
+</ul>
 
-## 🚀 Core Skills
+<hr>
+
+<h2>🌐 Web Development</h2>
+
+<h3>Frontend</h3>
+
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+  <li>Responsive Web Design</li>
+  <li>REST API Integration</li>
+  <li>Dynamic Web Interfaces</li>
+</ul>
+
+<h3>Backend</h3>
+
+<ul>
+  <li>Python</li>
+  <li>JavaScript</li>
+  <li>PHP</li>
+  <li>REST APIs</li>
+  <li>Authentication</li>
+  <li>Database Integration</li>
+  <li>Server-Side Logic</li>
+  <li>Data Processing</li>
+</ul>
+
+<hr>
+
+<h2>📱 Communication & Business Systems</h2>
+
+<h3>Communication</h3>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Business API"/>
+
+<img src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+
+<img src="https://img.shields.io/badge/Email%20Automation-D14836?style=for-the-badge" alt="Email Automation"/>
+
+</p>
+
+<h3>Business Systems</h3>
+
+<ul>
+  <li>Order Management</li>
+  <li>Shipping Systems</li>
+  <li>Delivery Tracking</li>
+  <li>Customer Management</li>
+  <li>Notification Systems</li>
+  <li>Payment Integration</li>
+  <li>Invoice Processing</li>
+  <li>Reporting Systems</li>
+</ul>
+
+<hr>
+
+<h2>📊 Data Processing</h2>
+
+<ul>
+  <li>JSON Processing</li>
+  <li>CSV Processing</li>
+  <li>Excel Data Processing</li>
+  <li>PDF Processing</li>
+  <li>Data Validation</li>
+  <li>Data Cleaning</li>
+  <li>Data Transformation</li>
+  <li>Data Import / Export</li>
+  <li>Automated Reports</li>
+  <li>Database Synchronization</li>
+</ul>
+
+<hr>
+
+<h2>🧰 Development Tools</h2>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+
+</p>
+
+<hr>
+
+<h2>🔐 Security & Development Practices</h2>
+
+<ul>
+  <li>API Authentication</li>
+  <li>Access Control</li>
+  <li>Environment Variables</li>
+  <li>Secure Credentials Management</li>
+  <li>Input Validation</li>
+  <li>Error Handling</li>
+  <li>Logging</li>
+  <li>Backup Strategies</li>
+  <li>Secure API Communication</li>
+</ul>
+
+<hr>
+
+<h2>🚀 Core Skills</h2>
 
 <table>
 <tr>
@@ -296,115 +270,58 @@ My development work includes processing and transforming structured and unstruct
 </tr>
 
 <tr>
-<td>🗄️ SQL Databases</td>
-<td>🍃 NoSQL Databases</td>
+<td>🐘 PHP Development</td>
+<td>🌐 HTML5 / CSS3</td>
 <td>📊 Data Processing</td>
 </tr>
 
 <tr>
-<td>🌐 Backend Development</td>
-<td>🔄 System Integration</td>
-<td>🌐 REST APIs</td>
+<td>🗄️ SQL Databases</td>
+<td>🍃 NoSQL Databases</td>
+<td>🔄 Database Synchronization</td>
 </tr>
 
 <tr>
-<td>📡 Webhooks</td>
-<td>📱 Business Automation</td>
-<td>📦 Order Systems</td>
+<td>🌐 Backend Development</td>
+<td>📡 REST APIs</td>
+<td>🔄 Webhooks</td>
+</tr>
+
+<tr>
+<td>⚙️ n8n Automation</td>
+<td>🔧 System Integration</td>
+<td>📦 Business Systems</td>
 </tr>
 </table>
 
----
+<hr>
 
-## 🏗️ What I Build
+<h2>🏗️ System Architecture</h2>
 
 ```text
-┌───────────────────────────────────────┐
-│          Business Application         │
-└───────────────────┬───────────────────┘
-                    │
-                    ▼
-┌───────────────────────────────────────┐
-│            REST API Layer             │
-└───────────────────┬───────────────────┘
-                    │
-                    ▼
-┌───────────────────────────────────────┐
-│        Automation & Workflows         │
-└───────────────┬───────────────┬───────┘
-                │               │
-                ▼               ▼
-        ┌──────────────┐ ┌──────────────┐
-        │   Database   │ │ External API │
-        └──────────────┘ └──────────────┘
-                │               │
-                └───────┬───────┘
-                        ▼
-              ┌─────────────────┐
-              │ Notifications   │
-              │ Reports         │
-              │ Business Logic  │
-              └─────────────────┘
-```
-
----
-
-## 📌 Development Approach
-
-I focus on building software that is:
-
-* **Scalable**
-* **Maintainable**
-* **Reliable**
-* **Secure**
-* **Automated**
-* **API-driven**
-* **Database-oriented**
-* **Easy to integrate**
-
----
-
-## 🎯 Current Focus
-
-* Advanced Backend Development
-* API Architecture
-* Workflow Automation
-* Database Architecture
-* System Integration
-* Event-Driven Workflows
-* Business Automation
-* Scalable Software Systems
-
----
-
-## 📈 Development Philosophy
-
-> **Build systems, not just features.**
-
-> **Automate repetitive processes.**
-
-> **Connect systems through reliable APIs.**
-
-> **Keep software simple, scalable, and maintainable.**
-
----
-
-## 🔥 Tech Focus
-
-<p align="center">
-
-<strong>
-Python • JavaScript • TypeScript • PHP • SQL • MySQL • PostgreSQL • MongoDB • Redis • REST APIs • Webhooks • n8n • Git • Docker
-</strong>
-
-</p>
-
----
-
-<p align="center">
-  <strong>Software Development • Automation • APIs • Databases • System Integration</strong>
-</p>
-
-<p align="center">
-  <i>Building reliable software systems and automated digital workflows.</i>
-</p>
+                ┌─────────────────────┐
+                │   Web Application   │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │      REST API       │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ Automation Workflow │
+                └───────┬─────┬───────┘
+                        │     │
+              ┌─────────┘     └─────────┐
+              ▼                         ▼
+      ┌───────────────┐         ┌───────────────┐
+      │   Database    │         │ External APIs │
+      └───────┬───────┘         └───────┬───────┘
+              │                         │
+              └──────────┬──────────────┘
+                         ▼
+                ┌─────────────────────┐
+                │ Notifications &     │
+                │ Business Processes  │
+                └─────────────────────┘
