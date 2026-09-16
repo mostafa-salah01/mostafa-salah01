@@ -1,41 +1,210 @@
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Siv Ram Shastri, Full Stack Web Developer :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+# 👋 Hi, I'm Mostafa Salah
+
+### Business Management | Business Setup | Finishing & Facades | n8n Automation | AI Solutions
+
+---
+
+## 👨🏻‍💼 About Me
+
+I'm **Mostafa Salah**, a Business Management and Operations Specialist with experience in **business setup, operations management, business development, finishing works, facade projects, logistics, and business automation**.
+
+I focus on understanding business processes, organizing operations, and transforming repetitive manual tasks into automated workflows using **n8n, AI, APIs, databases, and digital tools**.
+
+My approach is simple:
+
+> **Understand the Business → Design the Process → Automate the Workflow → Integrate AI → Improve Operations**
+
+---
+
+## 🏗️ Business & Management Experience
+
+I work with different types of businesses and activities, including:
+
+1. 🧺 Laundry & Dry Cleaning Management
+2. 🚚 Shipping & Logistics Companies
+3. 🛵 Delivery & Courier Fleet Management
+4. 🛒 E-commerce Companies & Digital Stores
+5. 📊 CRM & Customer Management Systems
+6. 🤖 Customer Service Automation
+7. 💳 Subscription & Recurring Billing Management
+8. 🏢 General Service Businesses
+9. 🚢 Import & Export Companies
+10. 🏗️ Consulting & Engineering Offices
+11. 🏥 Medical Centers & Clinics
+12. 💊 Pharmacies & Pharmaceutical Warehouses
+13. 🍔 Restaurants & Cafés
+14. 🔧 Maintenance & Technical Service Centers
+15. 🎓 Training Centers & Institutes
+16. 🚗 Rental Businesses — Cars, Real Estate & Equipment
+17. 🏠 Real Estate Companies & Brokers
+18. 💇 Beauty Centers & Salons
+19. 🏨 Hotels & Hospitality
+20. 🏋️ Gyms & Fitness Centers
+21. 💻 Electronics Maintenance Companies
+22. ⚖️ Law & Legal Consulting Offices
+23. 🏭 Factories & Production Lines
+24. 🛒 Supermarkets & Hypermarkets
+25. 🧹 Cleaning & Hospitality Services
+26. 📢 Advertising & Marketing Companies
+27. 🎤 Events & Conference Management
+28. ✈️ Tourism & Travel Companies
+
+---
+
+# 🤖 n8n Automation
+
+I use **n8n** to design and build business automation workflows that connect different systems, services, databases, APIs, and AI models.
+
+### ⚙️ Automation Solutions
+
+- 📱 WhatsApp Automation & Automatic Replies
+- 🤖 OpenAI, Claude & Gemini Integration
+- 📄 PDF & Image Data Extraction
+- 🧠 AI Document Processing
+- 🗄️ MySQL, PostgreSQL & MongoDB Automation
+- 💬 Telegram Bots & Order Management
+- 🔔 Slack, Discord & Email Notifications
+- 📲 Facebook & Instagram Integration
+- 🧾 Invoice & Customer Account Automation
+- 🛒 E-commerce & Payment Gateway Integration
+- 📅 Google Calendar & Booking Automation
+- 🌐 Webhooks & HTML Forms
+- 📑 Automatic PDF Reports & Documents
+- 🚚 Shipping & Delivery Automation
+- 📦 Order Tracking Automation
+- 💾 Database & Server Backup Automation
+- 📋 Trello, Notion & Jira Integration
+- 🔄 Data Synchronization Between Systems
+
+---
+
+# 🧠 AI Digital Employees
+
+I build automated workflows that can work as **digital employees** for repetitive business tasks.
+
+### Examples
+
+- 🤖 AI Sales Assistant
+- 💬 AI Customer Support Agent
+- 📅 Automated Appointment Coordinator
+- 📄 Automated Data Entry Assistant
+- 🧾 Invoice & Subscription Assistant
+- 🔔 Notification Coordinator
+- 📦 Shipping Order Follow-up Assistant
+- 📱 Social Media Publishing Assistant
+- 📑 PDF Document Reader & Analyzer
+- 🗄️ Database Management Assistant
+- ✍️ Message Writing & Proofreading Assistant
+- 📋 Project Task Coordinator
+- 📊 Data Collection & Reporting Assistant
+- 💰 Employee & Payment Settlement Assistant
+- 🌐 Website Order Extraction Assistant
+
+---
+
+# 🏗️ Construction & Finishing
+
+In addition to business management and automation, I work in:
+
+- 🏢 Business Setup & Establishment
+- 🏗️ Building Finishing
+- 🧱 Facade Finishing
+- 🏠 Commercial & Administrative Finishing
+- 📋 Project Organization & Follow-up
+- 👷 Workforce Management
+- 📦 Material & Supplier Coordination
+- 📊 Project Cost & Operations Management
+
+---
+
+# 🔗 Technologies & Tools
+
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
- <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-    </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<a href="https://n8n.io/" target="_blank">
+<img src="https://cdn.simpleicons.org/n8n" width="45" height="45" alt="n8n"/>
+</a>
 
-- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+<a href="https://openai.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/openai" width="45" height="45" alt="OpenAI"/>
+</a>
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<a href="https://www.anthropic.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/anthropic" width="45" height="45" alt="Claude"/>
+</a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/sivramshastri) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
-[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
+<a href="https://deepmind.google/technologies/gemini/" target="_blank">
+<img src="https://cdn.simpleicons.org/googlegemini" width="45" height="45" alt="Gemini"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/mysql" width="45" height="45" alt="MySQL"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/postgresql" width="45" height="45" alt="PostgreSQL"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/mongodb" width="45" height="45" alt="MongoDB"/>
+</a>
+
+<a href="https://www.whatsapp.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/whatsapp" width="45" height="45" alt="WhatsApp"/>
+</a>
+
+<a href="https://telegram.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/telegram" width="45" height="45" alt="Telegram"/>
+</a>
+
+<a href="https://www.notion.so/" target="_blank">
+<img src="https://cdn.simpleicons.org/notion" width="45" height="45" alt="Notion"/>
+</a>
+
+<a href="https://trello.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/trello" width="45" height="45" alt="Trello"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 What I Build
+
+I focus on creating practical digital solutions for businesses:
+
+- CRM Systems
+- Order Management Systems
+- Logistics & Delivery Systems
+- WhatsApp Automation
+- AI Customer Support
+- Sales Automation
+- Invoice Automation
+- Subscription Management
+- Database Automation
+- Document Processing
+- Business Reports
+- AI Agents
+- Workflow Automation
+- Business Operations Systems
+
+---
+
+# 🔄 My Workflow
+
+```text
+Business Analysis
+       ↓
+Process Design
+       ↓
+System Organization
+       ↓
+Workflow Automation
+       ↓
+AI Integration
+       ↓
+Data & API Integration
+       ↓
+Testing
+       ↓
+Continuous Improvement
